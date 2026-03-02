@@ -63,10 +63,9 @@ let g:lightline = {
 
 colorscheme nord
 ```
-To install language servers in CoC, simply run `:CocInstall` followed by the language server extension.
-For example, installing a Bash language server: `:CocInstall coc-sh`
-For a list of supported extensions and language servers, click [here](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions).
-<br>
+To install language servers in CoC, simply run `:CocInstall` followed by the language server extension.<br>
+For example, installing a Bash language server: `:CocInstall coc-sh`<br>
+For a list of supported extensions and language servers, click [here](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions).<br>
 If you wish to replicate the code navigation in Visual Studio Code, add this to your configuration:
 <br>
 ```vim
